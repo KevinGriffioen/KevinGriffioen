@@ -45,6 +45,4 @@
   <img src="https://github.com/user-attachments/assets/f66691b7-7890-4f4c-9fad-e7d0133771b0"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=KevinGriffioen&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-
 </div>
