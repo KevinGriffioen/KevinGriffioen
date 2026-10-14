@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a1a&height=200&section=header&text=Griffy-kevin&fontColor=39FF14&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&fontSize=48" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a1a&height=200&section=header&text=KevinGriffioen&fontColor=39FF14&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&fontSize=48" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=root%40griffy-kevin%3A~%24+whoami;Frontend+Developer;Shopware+%7C+Symfony+%7C+Next.js+%7C;git+commit+-m+%22fix%3A+it+works+on+my+machine%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=root%40kevingriffioen%3A~%24+whoami;Frontend+Developer;Shopware+%7C+Symfony+%7C+Next.js+%7C;git+commit+-m+%22fix%3A+it+works+on+my+machine%22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -36,7 +36,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Griffy-kevin/Griffy-kevin/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/KevinGriffioen/KevinGriffioen/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
 </div>
 
 <div align="center">
@@ -45,6 +45,6 @@
   <img src="https://github.com/user-attachments/assets/f66691b7-7890-4f4c-9fad-e7d0133771b0"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Griffy-kevin&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=KevinGriffioen&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
